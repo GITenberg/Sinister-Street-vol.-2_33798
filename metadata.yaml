@@ -1,0 +1,33 @@
+_repo: Sinister-Street-vol.-2_33798
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacKenzie, Compton
+    aliases:
+    - Mackenzie, Compton, Sir
+    - Mackenzie, Anthony Edward Montagu Compton
+    birthdate: 1883
+    deathdate: 1972
+    gutenberg_agent_id: '5658'
+    url: http://www.gutenberg.org/2009/agents/5658
+    wikipedia: http://en.wikipedia.org/wiki/Compton_Mackenzie
+description: ''
+gutenberg_bookshelf: Banned Books from Anne Haight's list
+gutenberg_issued: '2010-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33798'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Illegitimate children -- Fiction'
+- !lcsh 'England -- Social life and customs -- Fiction'
+- !lcsh 'Bildungsromans'
+title: Sinister Street, vol. 2
+url: http://www.gutenberg.org/ebooks/33798
